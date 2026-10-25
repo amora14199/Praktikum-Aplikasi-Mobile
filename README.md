@@ -1,17 +1,23 @@
-# flutter_application_1
+# Praktikum 5 - Expense Tracker
 
-A new Flutter project.
+Aplikasi pencatat pengeluaran berbasis Flutter, hasil gabungan Praktikum 1 sampai 5 mata kuliah Aplikasi Mobile.
 
-## Getting Started
+## Fitur
+- Register dan login (data akun disimpan di SQLite)
+- Tambah transaksi dan lihat riwayat
+- Detail transaksi
+- Halaman profil dan logout
+- Data tersimpan permanen di SQLite, tidak hilang saat aplikasi ditutup
 
-This project is a starting point for a Flutter application.
+## Teknologi
+- Flutter (Dart)
+- SQLite (sqflite)
 
-A few resources to get you started if this is your first Flutter project:
+## Cara menjalankan
+1. Clone repository ini
+2. Jalankan `flutter pub get`
+3. Jalankan `flutter run`
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Pembuat
+Sasya Zamora (2411533014)
+Informatika, Universitas Andalas
